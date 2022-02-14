@@ -1,0 +1,14 @@
+EN mux_3x1 NULL "C:/Users/M/Documents/ISE Projects/ProjectV2/Mux3x1.vhd" sub00/vhpl05 1586099332
+EN n_input_nor NULL "C:/Users/M/Documents/ISE Projects/ProjectV2/N_input_NOR.vhd" sub00/vhpl10 1586099337
+EN adder_1bit NULL "C:/Users/M/Documents/ISE Projects/ProjectV2/Adder_1bit.vhd" sub00/vhpl03 1586099330
+PH alu_package NULL "C:/Users/M/Documents/ISE Projects/ProjectV2/ALU_Package.vhd" sub00/vhpl07 1586099334
+PH alu_1bit_package NULL "C:/Users/M/Documents/ISE Projects/ProjectV2/ALU_1bit_Package.vhd" sub00/vhpl00 1586099327
+EN alu_1bit NULL "C:/Users/M/Documents/ISE Projects/ProjectV2/ALU_1bit.vhd" sub00/vhpl08 1586099335
+AR adder_1bit behavioral "C:/Users/M/Documents/ISE Projects/ProjectV2/Adder_1bit.vhd" sub00/vhpl04 1586099331
+AR alu_1bit behavioral "C:/Users/M/Documents/ISE Projects/ProjectV2/ALU_1bit.vhd" sub00/vhpl09 1586099336
+AR mux_3x1 behavioral "C:/Users/M/Documents/ISE Projects/ProjectV2/Mux3x1.vhd" sub00/vhpl06 1586099333
+AR alu behavioral "C:/Users/M/Documents/ISE Projects/ProjectV2/ALU.vhd" sub00/vhpl13 1586099340
+AR mux_2x1 behavioral "C:/Users/M/Documents/ISE Projects/ProjectV2/Mux2x1.vhd" sub00/vhpl02 1586099329
+EN mux_2x1 NULL "C:/Users/M/Documents/ISE Projects/ProjectV2/Mux2x1.vhd" sub00/vhpl01 1586099328
+AR n_input_nor behavioral "C:/Users/M/Documents/ISE Projects/ProjectV2/N_input_NOR.vhd" sub00/vhpl11 1586099338
+EN alu NULL "C:/Users/M/Documents/ISE Projects/ProjectV2/ALU.vhd" sub00/vhpl12 1586099339

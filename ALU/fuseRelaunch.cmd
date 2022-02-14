@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/M/Documents/ISE Projects/ProjectV2/ALUTest_isim_beh.exe" -prj "C:/Users/M/Documents/ISE Projects/ProjectV2/ALUTest_beh.prj" "work.ALUTest" 

@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/M/Documents/ISE Projects/ProjectV2/ALUTest.xst" -ofn "C:/Users/M/Documents/ISE Projects/ProjectV2/ALUTest.syr" 
+xst -intstyle ise -ifn "C:/Users/M/Documents/ISE Projects/ProjectV2/ALUTest.xst" -ofn "C:/Users/M/Documents/ISE Projects/ProjectV2/ALUTest.syr" 

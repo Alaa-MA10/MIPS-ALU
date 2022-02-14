@@ -1,0 +1,5 @@
+vhdl work "Mux3x1.vhd"
+vhdl work "Mux2x1.vhd"
+vhdl work "ALU_1bit_Package.vhd"
+vhdl work "Adder_1bit.vhd"
+vhdl work "ALU_1bit.vhd"

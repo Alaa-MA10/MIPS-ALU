@@ -1,0 +1,8 @@
+vhdl isim_temp "Mux3x1.vhd"
+vhdl isim_temp "Mux2x1.vhd"
+vhdl isim_temp "ALU_1bit_Package.vhd"
+vhdl isim_temp "Adder_1bit.vhd"
+vhdl isim_temp "ALU_Package.vhd"
+vhdl isim_temp "ALU_1bit.vhd"
+vhdl isim_temp "ALU.vhd"
+vhdl isim_temp "ALUTest.vhd"
